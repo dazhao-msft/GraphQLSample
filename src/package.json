@@ -5,7 +5,9 @@
   "author": "dazhao@microsoft.com",
   "scripts": {},
   "dependencies": {
-    "graphql": "14.2.1"
+    "graphql": "14.2.1",
+    "express": "4.16.4",
+    "express-graphql": "0.8.0"
   },
   "devDependencies": {}
 }
