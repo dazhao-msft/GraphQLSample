@@ -1,0 +1,11 @@
+{
+  "name": "graphql-sample",
+  "version": "1.0.0",
+  "description": "graphql-sample",
+  "author": "dazhao@microsoft.com",
+  "scripts": {},
+  "dependencies": {
+    "graphql": "14.2.1"
+  },
+  "devDependencies": {}
+}
